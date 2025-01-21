@@ -10,3 +10,7 @@ matplotlib
 insightface
 diffusers==0.18.2
 sentencepiece
+simplejson
+addic
+datasets==2.16.0
+oss2
