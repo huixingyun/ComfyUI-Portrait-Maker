@@ -4,8 +4,6 @@ main_path = os.path.dirname(__file__)
 sys.path.append(main_path)
 
 import portrait.install
-import requests
-from tqdm import tqdm
 from portrait.nodes import *
 
 # import pydevd_pycharm
