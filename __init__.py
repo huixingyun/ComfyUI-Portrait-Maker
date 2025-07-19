@@ -3,7 +3,7 @@ import os, sys
 main_path = os.path.dirname(__file__)
 sys.path.append(main_path)
 
-import portrait.install
+# import portrait.install
 from portrait.nodes import *
 
 # import pydevd_pycharm
